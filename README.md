@@ -1,5 +1,14 @@
 # python_fundamentals
 
+## Install & Run
+Install Python’s Latest Version on macOS
+
+```
+$ brew install python
+$ python3 --version
+```
+
+
 Run the file through terminal
 
 ```
